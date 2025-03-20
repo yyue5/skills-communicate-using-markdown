@@ -11,3 +11,8 @@
 ```R
 ggplot(mtr, aes(x= engine, y = mpg, color = make))
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
